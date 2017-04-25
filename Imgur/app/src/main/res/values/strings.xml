@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Imgur Gallery App</string>
+
+    <string name="hot_action">Hot</string>
+    <string name="user_action">Show user images </string>
+    <string name="viral_action">Viral</string>
+    <string name="list_action">List</string>
+    <string name="about_action">About</string>
+
+
+    <string name="preview_dialog_title">Image Preview</string>
+    <string name="image_without_description">Image without description</string>
+
+    <string name="about_app_name">App Name: </string>
+    <string name="about_app_version">App Version: </string>
+    <string name="about_effort">Development Time: 10 Hours</string>
+    <string name="about_contact">Developed by Juan Sebastian Gomez - caltivan@gmail.com</string>
+
+
+</resources>

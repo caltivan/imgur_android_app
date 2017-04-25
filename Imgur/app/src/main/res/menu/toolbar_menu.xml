@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_hot"
+        android:checkable="true"
+        android:title="@string/hot_action"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_viral"
+        android:checkable="true"
+        android:title="@string/viral_action"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_grid_view"
+        android:checkable="true"
+        android:title="@string/list_action"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/about_action"
+        android:title="@string/about_action"
+        app:showAsAction="never" />
+</menu>
